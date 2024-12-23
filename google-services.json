@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "857782650751",
+    "project_id": "aprendeprogramar-7be79",
+    "storage_bucket": "aprendeprogramar-7be79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857782650751:android:80dc1399aada4050957c4a",
+        "android_client_info": {
+          "package_name": "com.playconsole.AprendeProgramar2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmof8cFX6pn7aKzDMDPL13jZapj91-9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857782650751:android:b019d076fae296d4957c4a",
+        "android_client_info": {
+          "package_name": "com.playconsole.aprendeprogramar2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmof8cFX6pn7aKzDMDPL13jZapj91-9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-1801340051704618~6961039959"
+    }
+  ],
+  "configuration_version": "1"
+}
